@@ -8,6 +8,5 @@ int birthyear=sc.nextInt();
 System.out.println(birthdate);
 System.out.println(birthyear);
 System.out.println(birthmonth);
-}
-}
+}}
 
